@@ -113,9 +113,6 @@ This project demonstrates a real-time system for extracting and integrating non-
 ---
 
 ## 👨‍💻 Author
-**Nitin Chahar**
+**Nitin Chahar, Praveen Kumar Yadav** 
 
 ---
-
-## 📜 License
-This project is for academic purposes only.
